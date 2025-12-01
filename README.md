@@ -68,7 +68,7 @@ Developed a campus app serving **3,000+ students**, leading Flutter development,
 
 ---
 
-## ☕ Buy Me a Coffee for my girl friend (She forced me to add this 🥲)
+## ☕ Buy Me a Coffee for my girlfriend (She forced me to add this 🥲)
 
 Hi, I’m David (I-Chau Wang) — an AI & software engineer from Taiwan.  
 I enjoy building real-world systems that solve meaningful problems, and I document what I learn along the way.
