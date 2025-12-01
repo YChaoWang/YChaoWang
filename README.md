@@ -1,21 +1,19 @@
-# 💫 About Me
+# About Me
 
 Hi, I’m **David (I-Chau Wang)** — an AI & software engineer from Taiwan.  
 I focus on **machine learning, computer vision, large language models**, and **multi-agent systems**, and I enjoy building real-world systems that deliver meaningful, measurable impact.
-
-I like working at the intersection of **research × engineering × product**, turning ideas into reliable systems that people actually use.
 
 ---
 
 ## 💼 Work Experience
 
-### **Data Scientist Intern — Advantech**
+### **Data Scientist Intern  @Advantech**
 Designed and deployed an enterprise-scale recommendation and multi-agent system across **4,000+ products**, consolidating **30+ fragmented APIs** and improving pipeline performance by **~80%**.
 
-### **AI Engineering Intern — Hyson Technology Inc.**
+### **AI Engineering Intern @Hyson Technology Inc.**
 Co-developed an AI forged-seal recognition system with the **Kaohsiung City Police Department**, contributing to **97% (gov) / 92% (company)** detection accuracy through dataset design, evaluation protocols, and feature-integration optimization.
 
-### **Founding Flutter Engineer — NCCUPass**
+### **Founding Flutter Engineer @NCCUPass**
 Co-founded a campus app serving **3,000+ students**, leading Flutter development, system architecture, and CI/CD pipelines to deliver scalable, reliable updates for real-world student use.
 
 ---
