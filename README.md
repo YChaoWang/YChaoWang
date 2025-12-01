@@ -68,7 +68,7 @@ Developed a campus app serving **3,000+ students**, leading Flutter development,
 
 ---
 
-## ☕ Buy Me a Coffee
+## ☕ Buy Me a Coffee for my girl friend (She forced me to add this 🥲)
 
 Hi, I’m David (I-Chau Wang) — an AI & software engineer from Taiwan.  
 I enjoy building real-world systems that solve meaningful problems, and I document what I learn along the way.
@@ -76,7 +76,7 @@ I enjoy building real-world systems that solve meaningful problems, and I docume
 嗨，我是 David，喜歡把研究與想法變成真正有用的產品與工具，也習慣把學到的知識整理成清楚易懂的內容分享給大家。
 
 If my projects or writing have helped you in any way, you're welcome to buy me a coffee.  
-Your support helps me keep exploring, experimenting, and sharing more freely. ☕❤️
+Your support helps me keep exploring, experimenting, and sharing more freely.
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ichauwang)
 
