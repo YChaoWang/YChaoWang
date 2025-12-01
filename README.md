@@ -7,13 +7,13 @@ I focus on **machine learning, computer vision, large language models**, and **m
 
 ## 💼 Work Experience
 
-### **Data Scientist Intern  @Advantech**
+### **Data Scientist Intern  @[Advantech](https://www.advantech.com/en)**
 Designed and deployed an enterprise-scale recommendation and multi-agent system across **4,000+ products**, consolidating **30+ fragmented APIs** and improving pipeline performance by **~80%**.
 
-### **AI Engineering Intern @Hyson Technology Inc.**
+### **AI Engineering Intern @[Hyson Technology Inc.](https://www.hysontech.tw/)**
 Co-developed an AI forged-seal recognition system with the **Kaohsiung City Police Department**, contributing to **97% (gov) / 92% (company)** detection accuracy through dataset design, evaluation protocols, and feature-integration optimization.
 
-### **Flutter Engineer @NCCUPass**
+### **Flutter Engineer @[NCCUPass](https://nccupass.com/)**
 Developed a campus app serving **3,000+ students**, leading Flutter development, system architecture, and CI/CD pipelines to deliver scalable, reliable updates for real-world student use.
 
 ---
