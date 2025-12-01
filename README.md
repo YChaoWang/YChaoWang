@@ -13,8 +13,8 @@ Designed and deployed an enterprise-scale recommendation and multi-agent system 
 ### **AI Engineering Intern @Hyson Technology Inc.**
 Co-developed an AI forged-seal recognition system with the **Kaohsiung City Police Department**, contributing to **97% (gov) / 92% (company)** detection accuracy through dataset design, evaluation protocols, and feature-integration optimization.
 
-### **Founding Flutter Engineer @NCCUPass**
-Co-founded a campus app serving **3,000+ students**, leading Flutter development, system architecture, and CI/CD pipelines to deliver scalable, reliable updates for real-world student use.
+### **Flutter Engineer @NCCUPass**
+Developed a campus app serving **3,000+ students**, leading Flutter development, system architecture, and CI/CD pipelines to deliver scalable, reliable updates for real-world student use.
 
 ---
 
