@@ -1,11 +1,11 @@
-## About Me
+### About Me
 
 Hi, I’m **David (I-Chau Wang)** — an AI & software engineer from Taiwan.  
 I focus on **machine learning, computer vision, large language models**, and **multi-agent systems**, and I enjoy building real-world systems that deliver meaningful, measurable impact.
 
 ---
 
-## 💼 Work Experience
+### 💼 Work Experience
 
 1. **Data Scientist Intern  @[Advantech](https://www.advantech.com/en)**
 2. **AI Engineering Intern @[Hyson Technology Inc.](https://www.hysontech.tw/)**
@@ -13,7 +13,7 @@ I focus on **machine learning, computer vision, large language models**, and **m
 
 ---
 
-## 💻 Tech Stack
+### 💻 Tech Stack
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -49,7 +49,7 @@ I focus on **machine learning, computer vision, large language models**, and **m
 ![](https://nirzak-streak-stats.vercel.app/?user=YChauWang&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YChauWang&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### Follow me on Github and Linkedin
+#### Follow me on Github and Linkedin
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ichauwang/) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@David) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ichauwang@gmail.com) 
@@ -58,7 +58,7 @@ I focus on **machine learning, computer vision, large language models**, and **m
 
 ---
 
-## ☕ Buy Me a Coffee for my girlfriend (She forced me to add this 🥲)
+### ☕ Buy Me a Coffee for my girlfriend (She forced me to add this 🥲)
 
 If my projects or writing have helped you in any way, you're welcome to buy me a coffee.  
 Your support helps me keep exploring, experimenting, and sharing more freely.
