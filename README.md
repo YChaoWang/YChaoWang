@@ -60,9 +60,6 @@ I focus on **machine learning, computer vision, large language models**, and **m
 
 ## ☕ Buy Me a Coffee for my girlfriend (She forced me to add this 🥲)
 
-Hi, I’m David (I-Chau Wang) — an AI & software engineer from Taiwan.  
-I enjoy building real-world systems that solve meaningful problems, and I document what I learn along the way.
-
 If my projects or writing have helped you in any way, you're welcome to buy me a coffee.  
 Your support helps me keep exploring, experimenting, and sharing more freely.
 
