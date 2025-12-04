@@ -1,4 +1,4 @@
-### About Me
+### 👨‍💻About Me
 
 Hi, I’m **David (I-Chau Wang)** — an AI & software engineer from Taiwan.  
 I focus on **machine learning, computer vision, large language models**, and **multi-agent systems**, and I enjoy building real-world systems that deliver meaningful, measurable impact.
