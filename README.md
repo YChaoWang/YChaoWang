@@ -1,7 +1,7 @@
 ### 👨‍💻About Me
+My Website: [https://www.davidunlimited.com/](https://www.davidunlimited.com/)
 
-Hi, I’m **David ** — an AI & software engineer from Taiwan.  
-I focus on **machine learning, computer vision, large language models**, and **multi-agent systems**, and I enjoy building real-world systems that deliver meaningful, measurable impact.
+## Hi, I’m **David ** — an senior student major in Computer Science at National Chengchi University (NCCU).  
 
 ---
 
@@ -31,12 +31,5 @@ I focus on **machine learning, computer vision, large language models**, and **m
 
 <img src="https://komarev.com/ghpvc/?username=YChauWang&style=flat-square&color=blue" />
 
----
 
-### ☕ Buy Me a Coffee for my girlfriend (She forced me to add this 🥲)
-
-If my projects or writing have helped you in any way, you're welcome to buy me a coffee.  
-Your support helps me keep exploring, experimenting, and sharing more freely.
-
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ichauwang)
 
