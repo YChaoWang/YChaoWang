@@ -1,7 +1,7 @@
 ### 👨‍💻About Me
 My Website: [https://www.davidunlimited.com/](https://www.davidunlimited.com/)
 
-My name is I-Chau Wang (David) — an senior student major in Computer Science at National Chengchi University (NCCU).  
+My name is I-Chau Wang (David) — an incoming Master of Computer Science student at UC Irvine.  
 
 ---
 
