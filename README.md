@@ -9,7 +9,7 @@ My name is I-Chau Wang (David) — an incoming Master of Computer Science studen
 
 1. **Data Scientist Intern  @[Advantech](https://www.advantech.com/en)**
 2. **AI Engineering Intern @[Hyson Technology Inc.](https://www.hysontech.tw/)**
-3. **Flutter Engineer @[NCCUPass](https://nccupass.com/)**
+3. **Mobile Developer @[NCCUPass](https://nccupass.com/)**
 
 ---
 
