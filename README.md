@@ -23,18 +23,21 @@ My name is I-Chau Wang (David) — an incoming Master of Computer Science studen
 ---
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=YChaoWang&theme=dark&hide_border=false" height="150" />
-  <img src="https://leetcode-stats-node.vercel.app/api?username=IChauCode&theme=Dark" height="150" />
+  <img src="https://github-stats-alpha.vercel.app/api?username=YChaoWang&cc=0a0f0b&tc=37BCF2&ic=e4e2e2" />
 </p>
 
-<br/>
+<p align="center">
+  <a href="https://leetcode.com/u/IChauCode/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/IChauCode?theme=dark&font=Noto%20Sans%20Elbasan&ext=heatmap&width=500&height=200" />
+  </a>
+</p>
+
+---
 
 #### Follow me on Github and Linkedin
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ichauwang/) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@David) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ichauwang@gmail.com) 
 
-<img src="https://komarev.com/ghpvc/?username=YChauWang&style=flat-square&color=blue" />
-
-
-
+<br/>
+<img src="https://komarev.com/ghpvc/?username=YChaoWang&style=flat-square&color=blue" />
