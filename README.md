@@ -22,7 +22,12 @@ My name is I-Chau Wang (David) — an incoming Master of Computer Science studen
 
 ---
 
-![](https://nirzak-streak-stats.vercel.app/?user=YChauWang&theme=dark&hide_border=false)<br/>
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=YChaoCode&theme=dark&hide_border=false" height="150" />
+  <img src="https://leetcode-stats-node.vercel.app/api?username=YChauWang&theme=Dark" height="150" />
+</p>
+
+<br/>
 
 #### Follow me on Github and Linkedin
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ichauwang/) 
