@@ -11,6 +11,12 @@ My name is I-Chau Wang (David) — an incoming Master of Computer Science studen
 2. **AI Engineering Intern @[Hyson Technology Inc.](https://www.hysontech.tw/)**
 3. **Mobile Developer @[NCCUPass](https://nccupass.com/)**
 
+<p align="center">
+  <img height="137px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=YChaoWang&theme=merko&show_icons=true" style="max-width: 100%;" />
+  <span>&nbsp;&nbsp;</span>
+  <img height="137px" src="https://github-stats-alpha.vercel.app/api?username=YChaoWang&cc=0a0f0b&tc=37BCF2&ic=e4e2e2" style="max-width: 100%;" />
+</p>
+
 ---
 
 ### 💻 Tech Stack
@@ -20,17 +26,12 @@ My name is I-Chau Wang (David) — an incoming Master of Computer Science studen
 
 [![My Skills](https://skillicons.dev/icons?i=git,docker,linux,aws,azure,githubactions)](https://skillicons.dev)
 
----
-
-<p align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=YChaoWang&cc=0a0f0b&tc=37BCF2&ic=e4e2e2" />
-</p>
-
 <p align="center">
   <a href="https://leetcode.com/u/IChauCode/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/IChauCode?theme=dark&font=Noto%20Sans%20Elbasan&ext=heatmap&width=500&height=200" />
+    <img src="https://leetcard.jacoblin.cool/IChauCode?theme=dark&font=Noto%20Sans%20Elbasan&ext=heatmap&width=500&height=200" style="max-width: 100%;" />
   </a>
 </p>
+
 
 ---
 
