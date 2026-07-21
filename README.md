@@ -1,11 +1,36 @@
-### 👨‍💻About Me
-My Website: [https://www.davidunlimited.com/](https://www.davidunlimited.com/)
+<div align="center">
 
-My name is I-Chau Wang (David) — an incoming Master of Computer Science student at UC Irvine.  
+# Hi 👋 I'm David (I-Chau Wang)
 
----
+**CS Master's Student @ UC Irvine** · CA (USA)
 
-### 💼 Work Experience
+<a href="https://linkedin.com/in/ichauwang/" target="_blank">
+  <img
+    src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge"
+    height="40"
+    alt="LinkedIn"
+  />
+</a>
+<a href="mailto:ichauwang@gmail.com">
+  <img
+    src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge"
+    height="40"
+    alt="Email"
+  />
+</a>
+<a href="https://www.davidunlimited.com/" target="_blank">
+  <img
+    src="https://img.shields.io/static/v1?message=My%20Website&logo=vercel&label=&color=181717&logoColor=white&style=for-the-badge"
+    height="40"
+    alt="David's Website"
+  />
+</a>
+
+</div>
+
+<br />
+
+## 💼 Work Experience
 
 1. **Data Scientist Intern  @[Advantech](https://www.advantech.com/en)**
 2. **AI Engineering Intern @[Hyson Technology Inc.](https://www.hysontech.tw/)**
@@ -19,7 +44,7 @@ My name is I-Chau Wang (David) — an incoming Master of Computer Science studen
 
 ---
 
-### 💻 Tech Stack
+## 💻 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,js,nodejs,dart)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,redis,flutter,nextjs,django,react)](https://skillicons.dev)
@@ -35,10 +60,4 @@ My name is I-Chau Wang (David) — an incoming Master of Computer Science studen
 
 ---
 
-#### Follow me on Github and Linkedin
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ichauwang/) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@David) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ichauwang@gmail.com) 
-
-<br/>
 <img src="https://komarev.com/ghpvc/?username=YChaoWang&style=flat-square&color=blue" />
