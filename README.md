@@ -30,7 +30,7 @@
 
 <br />
 
-## 💼 Work Experience
+## 💼 Experience
 
 1. **Data Scientist Intern  @[Advantech](https://www.advantech.com/en)**
 2. **AI Engineering Intern @[Hyson Technology Inc.](https://www.hysontech.tw/)**
