@@ -18,7 +18,7 @@
     alt="Email"
   />
 </a>
-<a href="ichauw.com" target="_blank">
+<a href="https://ichauw.com" target="_blank">
   <img
     src="https://img.shields.io/static/v1?message=My%20Website&logo=vercel&label=&color=181717&logoColor=white&style=for-the-badge"
     height="40"
